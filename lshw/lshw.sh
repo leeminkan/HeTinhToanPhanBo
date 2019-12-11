@@ -1,2 +1,2 @@
 #!/bin/bash
-lshw -short > cloudstack_pc_1.txt
+lshw -short > vmware_pc_1.txt
